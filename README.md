@@ -1,5 +1,7 @@
 # Bank Loan Analysis Power BI Project
-Project Demo : [View Here](https://app.powerbi.com/view?r=eyJrIjoiZGJmZmRkZjItMTUzNy00MjgxLWIxZTUtMzQ1NGRmNGE2ZjJkIiwidCI6IjM3MzhkYjE5LTA4MzUtNDhmZS05MjhiLWMxZjI3ZmNkN2Y2NCJ9&pageName=ReportSection)
+[![Dashboard](https://img.shields.io/badge/Dashboard-%23000000.svg?style=for-the-badge&logo=Codeforces&logoColor=gold)](https://app.powerbi.com/view?r=eyJrIjoiZGJmZmRkZjItMTUzNy00MjgxLWIxZTUtMzQ1NGRmNGE2ZjJkIiwidCI6IjM3MzhkYjE5LTA4MzUtNDhmZS05MjhiLWMxZjI3ZmNkN2Y2NCJ9&pageName=ReportSection)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/-mohan-s/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://www.datascienceportfol.io/mohan_Srinivas)
 
 Welcome to the Bank Loan Analysis Power BI project repository! This project aims to provide insightful analysis and visualization of bank loan data using Power BI.
 
@@ -9,6 +11,7 @@ This Power BI project analyzes various aspects of bank loans to provide valuable
 
 ### Dashboard Page 1: Summary
 ![Summary Dashboard](/Output/Summary.png)
+
 #### Key Performance Indicators (KPIs) Requirements:
 
 1. **Total Loan Applications:** Calculate the total number of loan applications received during a specified period, including Month-to-Date (MTD) and Month-over-Month (MoM) changes.
@@ -48,7 +51,7 @@ The Details Dashboard streamlines access to critical loan data, facilitating inf
 
 ### Getting Started
 
-1. **Clone the Repository:** Clone this repository to your local machine using ``.
+1. **Clone the Repository:** Clone this repository to your local machine using `git clone https://github.com/Mohan2703/Bank-Loan-Analysis.git`.
 2. **Open the Power BI Project:** Open the `.pbix` file using Power BI Desktop.
 3. **Interact with Dashboards:** Explore the interactive dashboards and visualizations to gain insights into bank loan data.
 
