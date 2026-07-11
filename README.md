@@ -1,4 +1,4 @@
-# Bank Loan Analysis Power BI Project
+# Bank Loan Performance & Risk Analytics
 [![Dashboard](https://img.shields.io/badge/Dashboard-%23000000.svg?style=for-the-badge&logo=Codeforces&logoColor=gold)](https://app.powerbi.com/view?r=eyJrIjoiZGJmZmRkZjItMTUzNy00MjgxLWIxZTUtMzQ1NGRmNGE2ZjJkIiwidCI6IjM3MzhkYjE5LTA4MzUtNDhmZS05MjhiLWMxZjI3ZmNkN2Y2NCJ9&pageName=ReportSection)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/-mohan-s/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://www.datascienceportfol.io/mohan_Srinivas)
